@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 间距 -->
+    <dimen name="page_padding">16dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="title_padding">12dp</dimen>
+    <dimen name="margin_bottom_small">12dp</dimen>
+    <dimen name="margin_bottom_medium">16dp</dimen>
+    <dimen name="margin_end_radio">24dp</dimen>
+    <dimen name="input_padding_horizontal">8dp</dimen>
+
+    <!-- 尺寸 -->
+    <dimen name="input_height">40dp</dimen>
+    <dimen name="button_height">48dp</dimen>
+
+    <!-- 字体大小 -->
+    <dimen name="text_size_title">18sp</dimen>
+    <dimen name="text_size_label">14sp</dimen>
+    <dimen name="text_size_input">12sp</dimen>
+    <dimen name="text_size_button">16sp</dimen>
+
+    <!-- 其他 -->
+    <dimen name="card_elevation">4dp</dimen>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- 登录界面颜色 -->
+    <color name="bg_page">#F0F0F0</color>       <!-- 页面背景灰 -->
+    <color name="bg_card">#FFFFFF</color>       <!-- 卡片背景白 -->
+    <color name="teal_primary">#008080</color>  <!-- 标题栏青色 -->
+    <color name="red_accent">#D32F2F</color>    <!-- 单选按钮红色 -->
+    <color name="text_dark">#333333</color>     <!-- 深色文字 -->
+    <color name="btn_gray_bg">#E0E0E0</color>   <!-- 小按钮灰底 -->
+    <color name="btn_login_bg">#D3D3D3</color>  <!-- 登录按钮灰底 -->
+</resources>

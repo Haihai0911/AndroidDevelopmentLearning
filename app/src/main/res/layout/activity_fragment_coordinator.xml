@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="2">
+
+    <!-- 左侧 Fragment 容器 (控制面板) -->
+    <FrameLayout
+        android:id="@+id/container_control_panel"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#f0f0f0" />
+
+    <!-- 右侧 Fragment 容器 (展示面板) -->
+    <FrameLayout
+        android:id="@+id/container_display_panel"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="#e0e0e0" />
+
+</LinearLayout>
