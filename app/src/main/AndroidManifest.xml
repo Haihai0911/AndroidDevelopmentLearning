@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyApplication">
         <activity
-            android:name=".FragmentCoordinatorActivity"
+            android:name=".DatabaseActivity"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
@@ -31,6 +31,10 @@
             android:windowSoftInputMode="adjustResize" />
         <activity
             android:name=".LifeCycleActivity"
+            android:exported="false"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".FragmentCoordinatorActivity"
             android:exported="false"
             android:windowSoftInputMode="adjustResize" />
     </application>
